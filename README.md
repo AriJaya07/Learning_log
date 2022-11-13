@@ -71,6 +71,9 @@ Next, we need to tell Django to modify the database so it can store information 
 ### Registering a Model with the Admin Site
 Open admin.py (learning_logs directory). and look at an its existing content.
 
+    # create super admin django
+    python manage.py createsuperuser
+
 Now use the superuser account to access the admin site. Go to https:8000/admin/ 
 
 ### The Django Shell
