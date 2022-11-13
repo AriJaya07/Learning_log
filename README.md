@@ -124,4 +124,4 @@ The freeze command tells pip to write the names of all the packages currently in
 ### Specifying the Python Runtime
     python --version
 ### Make a new file called runtime.txt in the same directory as manage.py and enter the following:
-    python-3.10.1
+    python-3.10.6
